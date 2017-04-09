@@ -15,3 +15,6 @@ b=85
 r=b/a-1
 #print("小米,%.1f" % r)
 
+dict={'a'：1，'b':2}
+abs(-100)
+bytes
