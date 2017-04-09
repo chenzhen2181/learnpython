@@ -1,3 +1,4 @@
+# python3.5
 # -*- coding: utf-8 -*-
 def BMI_CAL(height, weight):
 	BMI = float(weight) / float(height) ** 2
