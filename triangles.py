@@ -20,9 +20,6 @@ def triangles(num=10):
 		n = n + 1
 		Ln = Lm.copy()
 		yield Lm
-
-
 g = triangles()
-
 for t in g:
 	print(t)
